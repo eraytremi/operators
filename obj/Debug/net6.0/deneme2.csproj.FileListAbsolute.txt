@@ -1,0 +1,15 @@
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\deneme2.csproj.AssemblyReference.cache
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\deneme2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\deneme2.AssemblyInfoInputs.cache
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\deneme2.AssemblyInfo.cs
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\deneme2.csproj.CoreCompileInputs.cache
+C:\Users\erayt\Desktop\Pratikler\deneme2\bin\Debug\net6.0\deneme2.exe
+C:\Users\erayt\Desktop\Pratikler\deneme2\bin\Debug\net6.0\deneme2.deps.json
+C:\Users\erayt\Desktop\Pratikler\deneme2\bin\Debug\net6.0\deneme2.runtimeconfig.json
+C:\Users\erayt\Desktop\Pratikler\deneme2\bin\Debug\net6.0\deneme2.dll
+C:\Users\erayt\Desktop\Pratikler\deneme2\bin\Debug\net6.0\deneme2.pdb
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\deneme2.dll
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\refint\deneme2.dll
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\deneme2.pdb
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\deneme2.genruntimeconfig.cache
+C:\Users\erayt\Desktop\Pratikler\deneme2\obj\Debug\net6.0\ref\deneme2.dll
